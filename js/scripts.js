@@ -7,8 +7,8 @@ $(document).ready(function () {
         navText: ['', ' '],
         lazyLoad: true,
         autoplay: true,
-        autoplayTimeout: 1000,
-        autoplaySpeed: 100,
+        autoplayTimeout: 9000,
+        autoplaySpeed: 3500,
         responsive: {
             0: {
                 items: 1
